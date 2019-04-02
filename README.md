@@ -1,9 +1,3 @@
-<!--
-  TODO As a new web dev, I want a simple and firendly README so that I feel good going into the next thing.
-  BODY - [ ] Write a description of what the project is
-  BODY
-  BODY - [ ] Add emoji(s)
--->
 This is just another Hello World project, part of the start of my journey to get back into web development. In college about a decade ago I got through basic JavaScript, and development has changed so much since then.
 
 Thanks for joining me :smiley: I'm currently using:
